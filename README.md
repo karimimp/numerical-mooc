@@ -1,5 +1,7 @@
 #Practical Numerical Methods in Python
 Some totally nonsense texts to change in the readme
+This is the second line of nonsense by cloning the thingy from terminal.
+This is kinda cool!
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
 - Lorena A. Barba, George Washington University, USA
 - Ian Hawke, Southampton University, UK
